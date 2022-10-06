@@ -6,7 +6,7 @@ body {
 .logobox {
     display: flex;
     justify-content: center;
-    margin-top: 1rem;
+    margin-top: 2rem;
     margin-bottom: 2rem;
 }
 
