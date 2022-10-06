@@ -1,0 +1,39 @@
+body {
+    background-color: black;
+    font-family: sans-serif;
+}
+
+.logobox {
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+}
+
+.bandlogo {
+    width: 50%;
+    height: auto;
+}
+
+.bandmembers {
+    display:flex;
+    justify-content: center;
+}
+
+.member {
+    font-size: 1.5rem;
+    color: gray;
+    font-weight: bold;
+    letter-spacing: 0.25rem;
+    margin-top: 2rem;
+    margin-bottom: 0.1rem;
+    text-align: center;
+}
+
+.instrument {
+    color: gray;
+    letter-spacing: 0.25rem;
+    margin-top: 0.1rem;
+    margin-bottom: 1rem;
+    text-align: center;
+}
